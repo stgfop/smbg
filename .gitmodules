@@ -1,0 +1,6 @@
+[submodule "code/otomaton"]
+	path = code/otomaton
+	url = C:\\Users\\duncan.berenguier\\Documents\\git\\smbg\\code\\otomaton
+[submodule "code/boardgame-server"]
+	path = code/boardgame-server
+	url = C:\\Users\\duncan.berenguier\\Documents\\git\\smbg\\code\\boardgame-server
