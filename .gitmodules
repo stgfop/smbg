@@ -4,3 +4,9 @@
 [submodule "code/boardgame-server"]
 	path = code/boardgame-server
 	url = C:\\Users\\duncan.berenguier\\Documents\\git\\smbg\\code\\boardgame-server
+[submodule "code/pekoe-server"]
+	path = code/pekoe-server
+	url = C:\\Users\\duncan.berenguier\\Documents\\git\\smbg\\code\\pekoe-server
+[submodule "code/pekoe-webapp"]
+	path = code/pekoe-webapp
+	url = C:\\Users\\duncan.berenguier\\Documents\\git\\smbg\\code\\pekoe-webapp
